@@ -10,8 +10,7 @@ public class App {
     
     // kratka forma for petlje
     // ovo ce biti dovoljno za sad
-    for(int i=0;i<Ime.length;i++){
-    	 
+    for(int i=0;i<Ime.length;i++){   	 
     
     		 	System.out.println(Ime[i]+" "+Prezime[i]);
     	 
