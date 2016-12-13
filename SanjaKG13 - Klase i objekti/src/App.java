@@ -6,6 +6,9 @@ class Student {
 	boolean aktivanStudent;
 	boolean vanredniStudent;
 	
+	void OdstampajPodatke() {
+		System.out.println(ime+" "+prezime+", "+brojIndeksa);	
+	}
 	
 }
 
@@ -33,10 +36,8 @@ public class App {
 	DrugiStudent.aktivanStudent=true;
 	DrugiStudent.vanredniStudent=false;
 	
-	
-	System.out.println(PrviStudent.ime);
-	System.out.println(DrugiStudent.ime);
-	
+	PrviStudent.OdstampajPodatke();
+	DrugiStudent.OdstampajPodatke();
 	
 	
 	
