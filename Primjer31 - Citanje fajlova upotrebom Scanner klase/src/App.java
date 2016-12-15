@@ -11,11 +11,11 @@ import java.util.Scanner;
 public class App {
  
     public static void main(String[] args) throws FileNotFoundException {
-        //String fileName = "C:/Users/admin/Desktop/example.txt";
-        String fileName =  "example.txt";
+        String fileName = "D:/Test/KUka/Example.txt";
+      //  String fileName =  "example.txt";
         File textFile = new File(fileName);
          
-        Scanner in = new Scanner(textFile);
+        Scanner in = new Scanner(fileName);
          
         int value = in.nextInt();
         System.out.println("Read value: " + value);
