@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/SanjaKG30 - Anonimne klase/src/App.java"/>
+<listEntry value="/SanjaKG38 - Unutrasnje klase/src/App.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="App"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="SanjaKG30 - Anonimne klase"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="SanjaKG38 - Unutrasnje klase"/>
 </launchConfiguration>
