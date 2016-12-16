@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/Primjer31 - Citanje fajlova upotrebom Scanner klase/src/App.java"/>
+<listEntry value="/SanjaKG39 - Enum/src/App.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="App"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Primjer31 - Citanje fajlova upotrebom Scanner klase"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="SanjaKG39 - Enum"/>
 </launchConfiguration>
